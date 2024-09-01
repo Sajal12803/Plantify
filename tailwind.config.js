@@ -4,6 +4,7 @@ module.exports = {
     fontFamily: {
       primary: 'Playfair Display',
       secondary: 'Mulish',
+      
     },
     screens: {
       sm: '640px',
